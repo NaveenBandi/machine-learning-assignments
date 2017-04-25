@@ -1,11 +1,11 @@
-Contents__
-__
-Linear Regression__
-Logistic Regression__
-Neural Networks- Feedforward__
-Neural Networks- Backpropagation__
-Bias variance polynomials__
-Support Vector Machines__
-Principal Component Analysis__
-K-means clustering__
-Anamoly Detection__
+Contents <br />
+<br />
+Linear Regression<br />
+Logistic Regression<br />
+Neural Networks- Feedforward<br />
+Neural Networks- Backpropagation<br />
+Bias variance polynomials<br />
+Support Vector Machines<br />
+Principal Component Analysis<br />
+K-means clustering<br />
+Anamoly Detection<br />
