@@ -1,4 +1,4 @@
-Contents <br />
+<b>Contents</b> <br />
 <br />
 Linear Regression<br />
 Logistic Regression<br />
